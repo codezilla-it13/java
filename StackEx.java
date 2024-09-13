@@ -16,7 +16,6 @@ class Stack{
         top = -1;
         a = new int[MAX];
     }
-    @SuppressWarnings("deprecation")
     void push() throws Exception
     {
         try{
